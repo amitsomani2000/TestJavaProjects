@@ -10,8 +10,5 @@ public class helloworld {
         return Math.random() * 10000 ;
     };
 
-    private static void someMethod(){
-        System.out.println(" I dont know why i have written this method");
-    }
 }
 
