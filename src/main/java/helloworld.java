@@ -9,5 +9,9 @@ public class helloworld {
     private static double getCount(){
         return Math.random() * 10000 ;
     };
+
+    private static void someMethod(){
+        System.out.println(" I dont know why i have written this method");
+    }
 }
 
